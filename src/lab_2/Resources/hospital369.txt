@@ -1,0 +1,3 @@
+Doctors:Sergio Frost,male,29;Nikolas Alo,male,43;John Eaton,male,33;Selena Brook,female,24;Amanda Rebel,female,30;
+Nurses:Olga Folga,female,19;Fiona Shrekovna,female,30;Stella Madison,female,34;
+Patients:James Malcolm,male,31;Sarah O'conor,female,40;Jury Gagaron,male,25;Maria KYPI,female,50;
